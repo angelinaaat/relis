@@ -59,7 +59,7 @@ nav ul li a.active {
 }
 .photo{
   flex-direction: column;
-  width: 100%;
+  width: 1728px;
   max-height: 520px;
   object-fit: cover;
   margin-top: 25px ;
@@ -163,8 +163,33 @@ nav ul li a.active {
 }
 
 .overlay1 {
+
+    bottom: 0;
     width: 100%;
+    padding: 10px;}
+
+  
+.overlay1 p{
+  font-size: 14px;
+  line-height: 21px;
+  font-weight: 400;
 }
+
+.overlay1 h3{
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+
+}
+
+
+
+.overlay1 {
+
+    bottom: 0;
+    width: 100%;
+    padding: 10px;}
+
 
   
 .overlay1 p{
@@ -227,13 +252,13 @@ nav ul li a.active {
 
 .categori {
   position: relative;
-  width:100%;
+  width:1728px;
   height: 600px;
 }
 
 
 .categori img {
-  width: 100%;
+  width: 1728px;
   height: 600px;
   object-fit: cover;
 }
@@ -242,11 +267,15 @@ nav ul li a.active {
   position: absolute;
   bottom: 0;
   color: white;
-  width: 100%;
+  width:582;
+  height:404px;
   padding: 10px;
-  margin-bottom: 200px;
-  margin-left: 800px;
-  margin-right: 270px;
+  gap: 10px;
+  margin-left: 879px;
+  margin-top:96px;
+  margin-bottom: 100px;
+  margin-right: 267px;
+
 }
 
   .overlay3 p{
@@ -260,3 +289,109 @@ nav ul li a.active {
     line-height: 120px;
     font-weight: 400;
   }
+
+  .button{
+    font-size: 14px;
+    line-height: 21px;
+    font-weight: 400;
+    border: 1px solid white;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 10px;
+    padding-bottom:10px ;
+    justify-content: center;
+    gap: 10px;
+    height:41px;
+    width:183px;
+  }
+  .button fa-solid fa-arrow-right{
+  
+    margin-left: 10px;
+    width: 50px;
+    height:30px;
+  }
+  .service{
+    width:100%;
+    height:100px;
+    /* gap:10px; */
+    padding-left:268px ;
+    padding-top:31px;
+    padding-bottom:31px ;
+    padding-right:268px ;
+    background-color: #FCF8ED;
+    display: flex;
+  }
+
+  .service ul{
+    justify-content: space-between;
+    color:black;
+    line-height:21px;
+    font-size: 14px;
+    font-weight: 400px;
+    list-style: none;
+    display: flex;
+    padding: 10px;
+    margin: 10px;
+    margin-bottom:32px;
+    margin-top: 31px;
+    gap: 20px;
+
+  }
+
+  .service ul li{
+    margin-right:344px;
+    /* margin-bottom:40px;
+    margin-top: 39px; */
+  }
+  .service ul img{
+
+    width: 37px;
+    margin-bottom:33px;
+    /* margin-top: 31px; */
+    height: 37px;
+
+  }
+
+  .log{
+    margin-left: 267.5px;
+    margin-right:233px;
+    width:174px;
+    height:106px;
+  }
+
+  .footer-content {
+     margin-top: 210px;
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+}
+
+.footer-content h8 {
+    margin-bottom: 10px;
+    font-size:20px;
+}
+
+.footer-content ul {
+    list-style: none;
+    padding: 0;
+    font-size: 16px;
+    line-height: 24px;
+    margin-right:125px;
+}
+
+.footer-content li {
+    margin-bottom: 5px;
+}
+.newsletter enter input {
+    padding: 20px;
+    padding-right: 10px;
+    width: 200px;
+}
+
+.newsletter ul{
+  display: flex;
+  justify-content: space-around;
+}
+
+
+
