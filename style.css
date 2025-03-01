@@ -352,7 +352,6 @@ nav ul li a.active {
  
   } 
 
-<<<<<<< HEAD
   .service ul li fa-thin fa-location-dot{ 
  
     width: 100px; 
@@ -360,7 +359,6 @@ nav ul li a.active {
     /* margin-top: 31px; */ 
     height: 37px; 
  
-=======
 }
 
   header {
@@ -631,7 +629,7 @@ nav ul li a.active {
     font-size: 14px;
     line-height: 21px;
     font-weight: 400;
->>>>>>> 3b05cfc61b0517ab232969857a5983a8ca88003b
+
   }
 
   .service ul li fa-thin fa-tags{ 
@@ -642,7 +640,7 @@ nav ul li a.active {
     height: 37px; 
  
   }
-<<<<<<< HEAD
+
  
   .log{ 
     margin-left: 267.5px; 
@@ -684,7 +682,6 @@ nav ul li a.active {
   display: flex; 
   justify-content: space-around; 
 }
-=======
 
   .button{
     font-size: 14px;
@@ -810,4 +807,3 @@ nav ul li a.active {
 
 
 
->>>>>>> 3b05cfc61b0517ab232969857a5983a8ca88003b
