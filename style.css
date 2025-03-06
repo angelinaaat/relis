@@ -482,13 +482,15 @@ nav ul li a.active {
 
 .navigation2{
   display: flex;
-  justify-content: space-between;
+  /* justify-content: space-between; */
   width: 90%;
   align-items: center;
   font-weight: 400;
   font-size: 14px;
   line-height: 21px;
   margin-left: 150px;
+  height:100px;
+  border-radius:5px;
 
 }
 
