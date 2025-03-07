@@ -1,10 +1,9 @@
-let catalog = document.querySelectorAll('.category')
+let menu = document.querySelectorAll('.menu')
 let catalog2= document.querySelectorAll('.catalog2')
 let all = document.querySelector('.all');
 all.addEventListener('mousemove',function(){
         all.style.background = '#f2760a';
         all.style.color = '#ffffff';
-        // all.style.border= 10;
         catalog.style.display = 'block'
         catalog2.style.display = 'block'
 
@@ -34,21 +33,7 @@ fudge.addEventListener('mousemove',function(){
         fudge.style.color = '#ffffff';
 })
 
-all.addEventListener('click', function(){
-    catalog.style.display = 'block';
-    catalog2.style.display = 'block';
-    // navItems.forEach(nav => {
-    //     nav.addEventListener("click", function () {
-    //         const category = this.getAttribute("data-category");
-            
-    //         productItems.forEach(product => {
-    //             if (category === "all" || product.classList.contains(category)) {
-    //                 product.style.display = "block";
-    //             } else {
-    //                 product.style.display = "none";
-    //             }
-    //         });
-    //     });
-    // });
-    });
+
+  const onDOMContentLoaded = function(){
         
+  }      
