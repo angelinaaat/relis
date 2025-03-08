@@ -458,13 +458,46 @@ nav ul li a.active {
   width: 100%;
   padding: 10px;}
 
-.overlay p{
+.overlay p1{
+  font-size: 14px;
+  line-height: 21px;
+  font-weight: 400;
+}
+.overlay p2{
+  font-size: 14px;
+  line-height: 21px;
+  font-weight: 400;
+}
+.overlay p3{
+  font-size: 14px;
+  line-height: 21px;
+  font-weight: 400;
+}
+.overlay p4{
   font-size: 14px;
   line-height: 21px;
   font-weight: 400;
 }
 
 .overlay h3{
+  font-size: 24px;
+  line-height: 36px;
+  font-weight: 400;
+}
+
+.overlay h9{
+  font-size: 24px;
+  line-height: 36px;
+  font-weight: 400;
+}
+
+.overlay h10{
+  font-size: 24px;
+  line-height: 36px;
+  font-weight: 400;
+}
+
+.overlay h11{
   font-size: 24px;
   line-height: 36px;
   font-weight: 400;
@@ -767,7 +800,7 @@ nav ul li a.active {
 
   } */ */
 
-  .mars{
+  .customer{
     color:#FFE4C4	;
     font-size: 30px;
   }
