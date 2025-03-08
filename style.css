@@ -182,8 +182,26 @@ nav ul li a.active {
   font-weight: 400; 
  
 } 
- 
- 
+
+.menu{
+  display: block;
+}
+
+.menu-confiseurs{
+  display: none;
+}
+
+.menu-caramel{
+  display: none;
+}
+
+.menu-popular{
+  display: none;
+}
+
+.menu-fudge{
+  display: none;
+} 
  
 .overlay1 { 
  
