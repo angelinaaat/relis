@@ -19,6 +19,7 @@ body{
     background: white; 
     padding: 10px 0; 
     justify-content: center; 
+    width: 1728px ; 
 } 
  
 nav { 
@@ -319,12 +320,12 @@ nav ul li a.active {
 
   } 
   .service{ 
-    width:100%; 
+    width: 1728px ; 
     height:100px; 
-    padding-left:268px ; 
+    /* padding-left:268px ;  */
     padding-top:31px; 
     padding-bottom:31px ; 
-    padding-right:268px ; 
+    /* padding-right:268px ;  */
     background-color: #FCF8ED; 
     display: flex; 
   } 
